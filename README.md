@@ -26,9 +26,9 @@ The issue is localized in the search entry stage, likely linked to recent change
 - reduced availability of cars in search results
 
 ## 🔍 Next Steps
-Analyze impact of search update (before/after comparison, cohort analysis)
-Segment by platform and geography
-Check search usability and technical performance metrics
+- Analyze impact of search update (before/after comparison, cohort analysis)
+- Segment by platform and geography
+- Check search usability and technical performance metrics
 
 ## 📊 Output
 Power BI dashboard includes:
