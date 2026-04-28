@@ -35,3 +35,4 @@ Power BI dashboard includes:
 - Overall funnel conversion trend (in the output folder)
 - Step-by-step funnel breakdown
   
+<img width="3000" height="1683" alt="MobiCar_Conv_Funnel" src="https://github.com/user-attachments/assets/d23fa0f8-5523-4b74-afef-9c7c2286b5d3" />
