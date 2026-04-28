@@ -19,6 +19,16 @@ Goal: investigate a 15% drop in Install → First Trip conversion.
 ## 🧠 Conclusion
 The issue is localized in the search entry stage, likely linked to recent changes in the search functionality, leading to reduced user engagement early in the product journey.
 
+## 💡 Hypotheses
+- degradation of search user experience after recent updates
+- decrease in relevance of search results
+- technical issues in the search functionality (load speed, errors, empty results)
+- reduced availability of cars in search results
+
+## 🔍 Next Steps
+Analyze impact of search update (before/after comparison, cohort analysis)
+Segment by platform and geography
+Check search usability and technical performance metrics
 
 ## 📊 Output
 Power BI dashboard includes:
